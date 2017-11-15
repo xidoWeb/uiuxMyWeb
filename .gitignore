@@ -6,3 +6,5 @@
 # node_modules 폴더
 **/node_modules
 
+# exe 실행파일
+**/*.exe
